@@ -25,7 +25,6 @@ a {
 }
 a:hover {
 	border-color: white;
-	scroll-behavior: down;
 }
 p {
 	font-family: "Droid Serif", serif;
@@ -42,6 +41,13 @@ main {
 }
 img {
 	margin: 40px 8px 0 8px;
+}
+button {
+	text-transform: uppercase;
+	background-color: red;
+	color: white;
+	border-color: black;
+
 }
 footer {
 	text-transform: uppercase;
